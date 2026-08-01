@@ -1,5 +1,9 @@
 # Dataset
 Datasets/RMHD_limpio_completo.parquet
+Datasets/RMHD_con_emociones.parquet
+
+# Embeddings
+Datasets/Embeddings
 
 # Notebook pesado
 Codigo/2. Grafo.ipynb
