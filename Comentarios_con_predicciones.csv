@@ -1,0 +1,129 @@
+,text,subreddit,community,emotion,comunidad_pred,emocion_pred
+0,"I keep checking every update about new variants and vaccine effectiveness, and each headline makes me worry that everything is starting over again.",Anxiety,0,fear,0,fear
+1,"My family argues about Pfizer and Moderna, and I feel frustrated that every conversation turns into another debate.",Anxiety,0,anger,9,anger
+2,I was surprised to learn how much the guidance changed between the first doses and the later boosters.,Anxiety,0,surprise,7,surprise
+3,I read the public health updates this morning and saved the information so I can discuss it with my doctor if needed.,Anxiety,0,neutral,7,neutral
+4,"My GPA has dropped this semester, and I am terrified that I have ruined my chances of getting into graduate school.",Anxiety,1,fear,1,fear
+5,"I am exhausted from balancing attendance, assignments and work, and I feel like I cannot keep up.",Anxiety,1,sadness,1,sadness
+6,"It makes me angry when people assume unemployment means someone is lazy, especially when they have no idea how hard the search is.",Anxiety,1,anger,9,anger
+7,I made a weekly study schedule and emailed my advisor to ask about the courses I still need.,Anxiety,1,neutral,9,neutral
+8,"Since starting my new prescription, I keep worrying about every small change in my body and whether it is a side effect.",Anxiety,2,fear,2,fear
+9,I feel relieved that my doctor listened and explained the options instead of rushing me through the appointment.,Anxiety,2,happiness,5,happiness
+10,I am frustrated that it took so many appointments to find someone willing to review my medication carefully.,Anxiety,2,anger,5,anger
+11,"My clinician asked me to track sleep, mood and symptoms before our next follow-up.",Anxiety,2,neutral,5,neutral
+12,"My cat curls up beside me whenever I feel overwhelmed, and that tiny routine makes the evenings feel warmer.",Anxiety,3,happiness,7,happiness
+13,I feel awful because my dog needs more attention than I can give him right now.,Anxiety,3,sadness,9,disgust
+14,I was shocked when my shy rescue cat finally climbed into my lap on her own.,Anxiety,3,surprise,3,surprise
+15,I am comparing local shelters and reading their adoption requirements before making a decision.,Anxiety,3,neutral,3,neutral
+16,"Turbulence makes my stomach drop, and I spend the entire flight imagining something going wrong.",Anxiety,4,fear,4,fear
+17,I feel embarrassed that a small cockroach can make me panic so quickly.,Anxiety,4,disgust,6,sadness
+18,I was startled when a bird flew right past my face while I was walking to work.,Anxiety,4,surprise,7,surprise
+19,I have started noting which situations trigger my fear so I can discuss them in therapy.,Anxiety,4,neutral,5,neutral
+20,"I want to try online therapy, but I am scared that my private conversations might not stay confidential.",Anxiety,5,fear,5,fear
+21,It is upsetting to discover that my insurance does not cover the therapist I finally felt comfortable with.,Anxiety,5,sadness,5,sadness
+22,I am grateful that the counselor explained confidentiality and answered all my questions clearly.,Anxiety,5,happiness,5,happiness
+23,"I am checking the provider's privacy policy, fees and appointment availability before booking.",Anxiety,5,neutral,7,neutral
+24,"Sometimes familiar places suddenly feel unreal, and the sensation frightens me even when I know where I am.",Anxiety,6,fear,7,fear
+25,I was surprised when my therapist said that stress can affect how familiar a place feels.,Anxiety,6,surprise,5,surprise
+26,"The experience is difficult to describe, and I feel isolated when people dismiss it as nothing.",Anxiety,6,sadness,9,sadness
+27,I wrote down when these episodes happen and plan to bring the notes to my next appointment.,Anxiety,6,neutral,7,neutral
+28,Soft instrumental music helps me slow my breathing when my thoughts start racing.,Anxiety,7,happiness,2,neutral
+29,I feel calmer when I play cello pieces in the evening instead of scrolling through stressful news.,Anxiety,7,happiness,7,happiness
+30,I was surprised that a simple lo-fi playlist helped me focus during a difficult afternoon.,Anxiety,7,surprise,7,surprise
+31,"I made a playlist with piano, ambient and instrumental tracks for studying.",Anxiety,7,neutral,7,neutral
+32,I keep replaying the conversation with my friend because I am afraid I sounded awkward or too interested.,Anxiety,8,fear,9,fear
+33,I feel happy when someone makes their intentions clear instead of leaving me guessing.,Anxiety,8,happiness,7,happiness
+34,It disgusts me when someone ignores boundaries and then acts as if the other person is overreacting.,Anxiety,8,disgust,9,disgust
+35,I am trying to communicate directly rather than guessing what the other person meant.,Anxiety,8,neutral,9,neutral
+36,"After scrolling through Instagram, I feel inferior to everyone and worry that I am falling behind in life.",Anxiety,9,sadness,9,fear
+37,I get angry at myself for comparing my ordinary day with carefully edited posts.,Anxiety,9,anger,7,anger
+38,Taking a break from social media has made my evenings feel less overwhelming.,Anxiety,9,happiness,9,happiness
+39,I deactivated one account and moved my gaming time to the weekend.,Anxiety,9,neutral,7,neutral
+40,"I feel trapped by deadlines and scholarships, and I am frightened that one bad semester will destroy my future.",SuicideWatch,0,fear,0,fear
+41,"My supervisor suggested counseling, and I am relieved that someone noticed how much pressure I have been carrying.",SuicideWatch,0,happiness,0,happiness
+42,I am angry that asking for academic support feels like admitting failure when the workload is unreasonable.,SuicideWatch,0,anger,0,anger
+43,I booked an appointment with the campus counselor and wrote down the issues I want to discuss.,SuicideWatch,0,neutral,3,neutral
+44,The holidays are approaching and I am scared of spending another year feeling completely alone.,SuicideWatch,1,fear,3,fear
+45,Seeing everyone make plans while I have nobody to call makes me feel deeply sad.,SuicideWatch,1,sadness,1,sadness
+46,I was surprised when an old friend reached out after months without contact.,SuicideWatch,1,surprise,3,surprise
+47,I have been looking for a local peer-support group that meets on weekends.,SuicideWatch,1,neutral,3,happiness
+48,"When conversations turn toward lethal methods, I feel frightened and wish people would focus on staying safe and finding support.",SuicideWatch,2,fear,1,happiness
+49,It makes me angry when online discussions treat a crisis like an abstract argument instead of a person who needs care.,SuicideWatch,2,anger,3,anger
+50,I am relieved when moderators remove graphic details and share supportive resources instead.,SuicideWatch,2,happiness,1,happiness
+51,I reported a post that included dangerous details and directed the person toward crisis support.,SuicideWatch,2,neutral,1,neutral
+52,"After the screenshots were shared, I became afraid to open any social app because I expect another wave of harassment.",SuicideWatch,3,fear,3,fear
+53,The cyberbullying makes me feel humiliated and completely cut off from everyone.,SuicideWatch,3,sadness,1,sadness
+54,I am furious that people keep forwarding private messages for entertainment.,SuicideWatch,3,anger,1,anger
+55,"I changed my privacy settings, saved evidence and blocked the accounts involved.",SuicideWatch,3,neutral,1,neutral
+56,I am nervous about changing prescriptions because I do not know how my mood or sleep might respond.,SuicideWatch,4,fear,4,fear
+57,I feel hopeful after my psychiatrist took time to explain the treatment plan and follow-up process.,SuicideWatch,4,happiness,4,happiness
+58,It is frustrating to deal with medication shortages while trying to keep appointments consistent.,SuicideWatch,4,anger,4,anger
+59,My doctor and I agreed to review the benefits and side effects at the next visit.,SuicideWatch,4,neutral,4,happiness
+60,"I am scared that I might not get through tonight without talking to someone, so I am reaching out for immediate help.",SuicideWatch,5,fear,1,fear
+61,I feel a little less alone after a crisis counselor stayed on the phone and listened without judging me.,SuicideWatch,5,happiness,4,sadness
+62,I am upset that the helpline kept me waiting when I was already overwhelmed.,SuicideWatch,5,anger,1,sadness
+63,I contacted a crisis service and asked a trusted person to stay with me while I arrange professional support.,SuicideWatch,5,neutral,1,neutral
+64,"Since the accident, I feel anxious every time I get into a car, even for a short trip.",SuicideWatch,6,fear,6,fear
+65,I feel guilty that my pet depends on me when I am struggling to manage ordinary responsibilities.,SuicideWatch,6,sadness,4,sadness
+66,I was shocked by how much the collision affected my confidence on familiar roads.,SuicideWatch,6,surprise,6,surprise
+67,I am arranging transportation for the week and asking a friend to help with pet care.,SuicideWatch,6,neutral,3,neutral
+68,I am afraid to be open about my identity because people at work have made hostile comments.,SuicideWatch,7,fear,1,fear
+69,"The repeated discrimination leaves me feeling exhausted, rejected and deeply sad.",SuicideWatch,7,sadness,1,sadness
+70,I am furious that people treat racism and transphobia as harmless jokes.,SuicideWatch,7,anger,7,anger
+71,I found a community organization that offers confidential support and information about my options.,SuicideWatch,7,neutral,1,happiness
+72,"I keep blaming myself for things I cannot change, and the guilt makes it hard to imagine a better future.",SuicideWatch,8,sadness,7,sadness
+73,"I am frightened by how intense my despair has become, so I want to speak with someone who can help me stay safe.",SuicideWatch,8,fear,1,fear
+74,I feel grateful that a counselor listened carefully and helped me identify one manageable next step.,SuicideWatch,8,happiness,4,happiness
+75,I am writing down the people and services I can contact when distress becomes overwhelming.,SuicideWatch,8,neutral,3,neutral
+76,"After several nights of very little sleep, I feel frightened by how difficult it is to think clearly.",SuicideWatch,9,fear,4,fear
+77,I am exhausted and sad because every morning feels like another day spent trying to recover from the night.,SuicideWatch,9,sadness,4,sadness
+78,I was surprised that keeping a consistent wake-up time made my sleep routine slightly easier.,SuicideWatch,9,surprise,4,surprise
+79,I plan to discuss the ongoing insomnia and my current sleep routine with my clinician.,SuicideWatch,9,neutral,4,neutral
+80,"My dog waits by the door every afternoon, and seeing him makes the apartment feel less empty.",depression,0,happiness,0,neutral
+81,I feel guilty that my cat notices when I stay in bed all day and cannot play with her.,depression,0,sadness,0,sadness
+82,I was surprised when my rescue pet approached me during a difficult week and stayed close.,depression,0,surprise,0,surprise
+83,"Taking care of my pet gives structure to my mornings, so I keep food and walk times on a calendar.",depression,0,neutral,0,happiness
+84,I feel ashamed that I am behind on tuition and afraid I will have to leave university.,depression,1,fear,1,fear
+85,Failing a class after studying so hard has left me disappointed and sad.,depression,1,sadness,1,sadness
+86,I am frustrated that the financial aid office has not answered my messages for weeks.,depression,1,anger,7,anger
+87,I emailed my academic advisor to ask about payment plans and options for completing the semester.,depression,1,neutral,1,neutral
+88,"Therapy helped me see that my low mood is connected to several parts of my life, not just one event.",depression,2,surprise,8,surprise
+89,"I feel hopeful when treatment includes relationships, sleep, routines and the things that give life meaning.",depression,2,happiness,10,happiness
+90,It is frustrating when people reduce depression to a lack of gratitude or motivation.,depression,2,anger,2,anger
+91,I am reading about different therapeutic approaches and preparing questions for my next session.,depression,2,neutral,10,neutral
+92,"I worry that my medication is not helping enough, and I am scared that I will never feel like myself again.",depression,3,fear,3,fear
+93,I feel relieved that my clinician is reviewing my symptoms and discussing options with me.,depression,3,happiness,3,happiness
+94,"The side effects have been discouraging, and I feel sad that treatment has been such a difficult process.",depression,3,sadness,2,sadness
+95,"I am tracking mood, sleep and medication changes to discuss them at my follow-up.",depression,3,neutral,8,neutral
+96,"I feel ashamed when old urges return, but I am trying to tell someone instead of hiding how difficult things are.",depression,4,sadness,11,sadness
+97,"I am scared by how intense my distress feels tonight, and I want help staying safe.",depression,4,fear,11,fear
+98,I feel proud that I reached out to my therapist and used the coping plan we made together.,depression,4,happiness,10,happiness
+99,I moved triggering items out of reach and contacted someone I trust for support.,depression,4,neutral,7,happiness
+100,Gaming is the only time I stop thinking about everything that feels wrong in my life.,depression,5,sadness,5,sadness
+101,I feel happy when friends invite me to play because it gives me a reason to connect with people.,depression,5,happiness,9,happiness
+102,I was surprised that playing with a small team made me feel less isolated than playing alone.,depression,5,surprise,5,surprise
+103,I am setting a time limit for games so I can keep up with sleep and daily responsibilities.,depression,5,neutral,11,neutral
+104,"I feel worthless even when people tell me I have done something well, and I cannot seem to believe them.",depression,6,sadness,11,sadness
+105,I am afraid that this emptiness will never lift and that I will always feel disconnected from things I used to enjoy.,depression,6,fear,7,fear
+106,I get angry with myself for struggling with tasks that seem easy for everyone else.,depression,6,anger,7,anger
+107,I have been noting small activities that used to matter to me and whether my interest changes over time.,depression,6,neutral,4,neutral
+108,Listening to melancholic music helps me feel understood when I cannot explain what is happening inside me.,depression,7,sadness,7,happiness
+109,Making art gives me a peaceful place to put feelings that are difficult to say out loud.,depression,7,happiness,2,happiness
+110,I was surprised to find a song that described an experience I thought nobody else understood.,depression,7,surprise,7,surprise
+111,I have started keeping a list of albums and creative activities that I return to when I need quiet time.,depression,7,neutral,7,neutral
+112,I feel hopeful when I read about carefully monitored research that may improve future treatment options.,depression,8,happiness,2,happiness
+113,The technical language in clinical trial information makes me nervous because I do not know what applies to me.,depression,8,fear,1,fear
+114,I am surprised by how many different questions researchers are investigating about treatment response.,depression,8,surprise,3,surprise
+115,I am checking study eligibility criteria and discussing research information with my clinician.,depression,8,neutral,8,neutral
+116,"After the breakup, I keep thinking that nobody will ever choose me, and the loneliness feels overwhelming.",depression,9,sadness,9,sadness
+117,I am afraid to start dating again because I expect to be rejected in the same way.,depression,9,fear,11,fear
+118,I feel angry that someone used dating apps to mislead me and then disappeared without explanation.,depression,9,anger,9,anger
+119,I am taking a break from dating and focusing on friends and routines for now.,depression,9,neutral,9,neutral
+120,"The arguments at home make me feel unwanted, and I am sad that family no longer feels like a safe place.",depression,10,sadness,10,sadness
+121,I am frightened by how uncertain everything feels after my parents started talking about divorce.,depression,10,fear,10,fear
+122,I feel furious when relatives dismiss my boundaries and expect me to pretend nothing happened.,depression,10,anger,6,anger
+123,I am looking into practical housing and financial information while considering my next steps.,depression,10,neutral,0,neutral
+124,"Even brushing my teeth feels impossible some mornings, and I feel ashamed that basic tasks take so much effort.",depression,11,sadness,11,sadness
+125,"I get anxious when I think about showering, cleaning and all the tasks I have postponed.",depression,11,fear,11,fear
+126,I felt unexpectedly proud after taking a shower and making my bed today.,depression,11,happiness,11,happiness
+127,I am breaking chores into small steps and using reminders for meals and personal care.,depression,11,neutral,3,neutral
